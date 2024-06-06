@@ -1,0 +1,18 @@
+{
+  "gastos": [
+    {
+      "id": 1,
+      "idRoommate": "82f751f3",
+      "roommate": "ایلیا یاسمی",
+      "descripcion": "  Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": 2,
+      "idRoommate": "758e285c",
+      "roommate": "Romane Noel",
+      "descripcion": "qw",
+      "monto": 123123
+    }
+  ]
+}

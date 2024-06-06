@@ -1,0 +1,28 @@
+{
+  "roommates": [
+    {
+      "id": "758e285c",
+      "nombre": "Romane Noel",
+      "debe": -3750,
+      "recibe": 92342
+    },
+    {
+      "id": "8cae9d3b",
+      "nombre": "Adriana Risnes",
+      "debe": -34531,
+      "recibe": 0
+    },
+    {
+      "id": "82f751f3",
+      "nombre": "ایلیا یاسمی",
+      "debe": -30781,
+      "recibe": 11250
+    },
+    {
+      "id": "8d036d57",
+      "nombre": "Lakshmi Taj",
+      "debe": -34531,
+      "recibe": 0
+    }
+  ]
+}
